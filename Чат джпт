@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vape Cloud UA</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial;
+    background: #0f0f0f;
+    color: white;
+    text-align: center;
+}
+
+.header {
+    padding: 40px 20px;
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 15px 25px;
+    margin-top: 15px;
+    background: #00ff88;
+    color: black;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.products {
+    padding: 20px;
+}
+
+.card {
+    background: #1c1c1c;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 15px;
+}
+
+.price {
+    color: #00ff88;
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+.footer {
+    margin-top: 30px;
+    padding: 20px;
+    font-size: 14px;
+    color: gray;
+}
+</style>
+</head>
+
+<body>
+
+<div class="header">
+    <h1>🔥 Vape Cloud UA</h1>
+    <p>Електронки в наявності</p>
+    <p>💨 Elf Bar / Vozol / POD системи</p>
+    <p>🚀 Швидка відправка по Україні</p>
+
+    <a class="btn" href="https://t.me/tovarka735">👉 Замовити в Telegram</a>
+</div>
+
+<div class="products">
+
+    <div class="card">
+        <h2>🔥 Elf Bar GH 23000</h2>
+        <p>Watermelon Ice / Blue Razz / Grape</p>
+        <div class="price">849 грн</div>
+        <p>📦 В наявності</p>
+    </div>
+
+    <div class="card">
+        <h2>💨 Vozol</h2>
+        <p>Топ смаки в наявності</p>
+        <div class="price">від 700 грн</div>
+        <p>📦 В наявності</p>
+    </div>
+
+</div>
+
+<div class="footer">
+    <p>✔ Оплата при отриманні</p>
+    <p>✔ Відправка по Україні</p>
+    <p>✔ 100+ задоволених клієнтів</p>
+</div>
+
+</body>
+</html>
